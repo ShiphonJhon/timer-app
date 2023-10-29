@@ -2,7 +2,7 @@
 //import './App.css';
 import { useState } from "react";
 
-var timeCount = 20;
+var timeCount = 25;
 
 const TimerCompo = () => {
 
